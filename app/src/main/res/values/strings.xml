@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">定位方案</string>
+
+    <string name="settings">设置</string>
+    <string name="register_name">注册</string>
+    <string name="action_settings">设置</string>
+
+    <string name="change_mode">切换模式</string>
+    <string name="move2_current_location">移动到目标当前位置</string>
+
+    <string name="loginPhoneNumber">手机号</string>
+    <string name="loginPassword">密码</string>
+    <string name="loginRemember">记住帐号和密码</string>
+    <string name="btn_login">登录</string>
+    <string name="btn_register">注册</string>
+    <string name="login_progressDialog_wrong">手机号或密码不正确</string>
+    <string name="login_progressDialog_input">请重新输入</string>
+    <string name="login_progressDialog_connectSuccess">连接成功</string>
+    <string name="login_progressDialog_loading">马上载入</string>
+    <string name="login_Toast_reInput">请重新输入</string>
+
+    <string name="registerPhoneNumber">手机号:</string>
+    <string name="registerPassword">密码:</string>
+    <string name="registerBindPhoneNumber">关联手机号:</string>
+    <string name="register_upinterval">查询间隔:</string>
+    <string name="registerSubmit">提交</string>
+    <string name="registerClear">取消</string>
+    <string name="register_progressDialog_register">注册中....</string>
+    <string name="register_progressDialog_connect">连接中..请稍后..</string>
+    <string name="register_Toast_registerDefeat">注册失败</string>
+    <string name="register_invalidatePhoneNumber">请输入正确的号码</string>
+    <string name="register_invalidatePassword">密码过于简单</string>
+    <string name="register_invalidateBindPhoneNumber">请输入正确的关联手机号</string>
+    <string name="register_minute">(分钟)</string>
+    <string name="register_sos1">SOS1:</string>
+    <string name="register_sos2">SOS2:</string>
+    <string name="register_sos3">SOS3:</string>
+    <string name="register_eleFence">电子围栏:</string>
+    <string name="register_eleFenceRadius">电子围栏半径:</string>
+    <string name="register_eleFenceRadiusValue">(公里)</string>
+    <string name="register_registed">该号码已注册，请重新输入</string>
+
+</resources>
